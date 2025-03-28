@@ -7,7 +7,7 @@ Projeto Docker simples para rodar uma instância MySQL personalizada para o Beau
 | Variável            | Valor padrão |
 | ------------------- | ------------ |
 | MYSQL_ROOT_PASSWORD | rootpassword |
-| MYSQL_DATABASE      | beautyapp_db |
+| MYSQL_DATABASE      | beautyapp |
 | MYSQL_USER          | beautyuser   |
 | MYSQL_PASSWORD      | beautypass   |
 
